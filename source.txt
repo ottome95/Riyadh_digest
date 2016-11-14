@@ -1,0 +1,71 @@
+1. ---- level 1 heading ----
+
+Welcome to Riyadh
+
+2. ---- level 2 heading ----
+
+Where A Traditional Past Meets A Modern Future.
+
+3a. ---- find the correct path to image 1 ----
+
+transit.jpg
+
+3b. ---- image 1 alt text ----
+
+Modern Transit
+
+4. ---- level 3 heading ----
+
+Travel
+
+5. ---- paragraph 1 ----
+
+Once a mudbrick waystation along desert trading routes, Riyadh is now one of the wealthiest cities in the world. The country’s political, financial and administrative capital is also a city with a fascinating subtext.
+
+6. ---- level 3 heading ----
+
+History
+
+7. ---- paragraph 2 ----
+
+Riyadh (/rɨˈjɑːd/; Arabic: الرياض‎ ar-Riyāḍ pronounced [arːiˈjɑːdˤ],"The Gardens") is the capital and largest city of Saudi Arabia. It is also the capital of Riyadh Province, and belongs to the historical regions of Najd and Al-Yamama. It is situated in the center of the Arabian Peninsula on a large plateau, and is home to 5,254,560 people, and the urban center of a region with a population of close to 7 million people.
+
+8a. ---- find the correct path to image 2 ----
+
+garden.jpg
+
+8b. ---- image 2 alt text ----
+
+Riyadh Garden
+
+9. ---- paragraph 3 ----
+
+The city is divided into 15 municipal districts, managed by Riyadh Municipality headed by the mayor of Riyadh, and the Riyadh Development Authority, chaired by the governor of Riyadh Province, Khalid bin Bandar Al Saud. The current mayor of Riyadh is Abdullah bin Abdul Rahman Al Mogbel, appointed in 2012. Riyadh has the largest all female university in the world, the Princess Nora bint Abdulrahman University. It has been designated as a Beta World City.
+
+10a. ---- find the correct path to image 3 ----
+
+camels-in-truck.jpg
+
+10b. ---- image 3 alt text ----
+
+The roads of Riyadh
+
+11. ---- level 3 heading ----
+
+Sources
+
+12a. ---- link 1 text ----
+
+Lonely Planet
+
+12b. ---- link 1 source location ----
+
+http://www.lonelyplanet.com/saudi-arabia/riyadh
+
+13a. ---- link 2 text ----
+
+Wikipedia
+
+13b. ---- link 2 source location ----
+
+http://en.wikipedia.org/wiki/Riyadh
